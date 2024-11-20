@@ -113,7 +113,7 @@ ui <- fluidPage(
             actionButton("truck", "Truck"),
             actionButton("oil_platform", "Oil Platform"),
             hr(),
-            helpText("View", a("source code on GitHub", href = "https://github.com/sol-eng/python-examples/tree/master/image-classifier"))
+            #helpText("View", a("source code on GitHub", href = "https://github.com/sol-eng/python-examples/tree/master/image-classifier"))
         ),
         mainPanel(
             # Output
